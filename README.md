@@ -59,7 +59,7 @@ BOT_NAME=LangFAQBot
 
 ```bash
 git clone https://github.com/CodeSaadUmair/faq-bot-cli.git
-cd blog-manager-cli
+cd faq-bot-cli
 ```
 
 ### Create virtual environment
